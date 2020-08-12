@@ -1,0 +1,2 @@
+wget -q -O data.zip "https://files.osf.io/v1/resources/tngba/providers/osfstorage/5d65b7706f41fc001b2c9c28?action=download&direct&version=1"
+unzip data.zip
